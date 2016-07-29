@@ -1,0 +1,39 @@
+.graph1 {
+
+	font-family: 'Roboto', sans-serif;
+	font-weight: lighter;
+}
+
+.graph2 {
+
+	font-family: "Georgia", Times, Times New Roman, serif;
+	font-weight: bolder;
+	
+}
+
+.graph3 {
+
+	font-family: "Georgia", Times, Times New Roman, serif;
+	font-weight: bold;
+
+}
+
+h1:hover {
+	font-family: monospace;
+
+}
+
+a:hover {
+	background-color: orange;
+	SIZE
+}
+
+a:active {
+	background-color:black;
+
+}
+
+img:hover {
+
+	border: dotted;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	
+	<title>Stuff I Think About</title>
+	<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+​
+</head>
+<body>
+​	
+	<center>	
+	<i class="fa fa-camera-retro fa-3x"></i> fa-3x
+	<h1>I'm a deep thinking dude.</h1>
+	</center>
+	<hr>
+	<h3>Here are a few things I've thought about</h3>
+	<i class="fa fa-camera-retro fa-3x"></i> fa-3x
+​
+	<h4>Thought Blurb 1:</h4>
+	<p class="graph1">
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae?
+		<a href="http://www.google.com">Link 1</a>
+	</p>
+		
+	<h4>Thought Blurb 2:</h4>
+	<p class="graph2"> <!-- Add a class here! -->
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae?
+		<a href="http://www.yahoo.com">Link 2</a>
+	</p>
+​
+	<h4>Thought Blurb 3:</h4>
+	<p class="graph3"> <!-- Add a class here! -->
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nobis tempora cum. Debitis ipsa, corporis odio temporibus minima et molestias dolorem, sit unde id soluta perspiciatis eos laboriosam tempore molestiae?
+	</p>
+	
+	<img src="https://s-media-cache-ak0.pinimg.com/736x/a1/e3/6b/a1e36bcb8ce179bd8cc8db28ff4ef6fb.jpg">
+</body>
+</html>
