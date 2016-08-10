@@ -1,0 +1,19 @@
+{
+  "name": "vowels",
+  "version": "1.0.0",
+  "description": "",
+  "main": "disemvowel.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}

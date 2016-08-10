@@ -165,6 +165,7 @@ sequelizeConnection.query('SET FOREIGN_KEY_CHECKS = 0')
 
 // now let's create some stores, and place multiple managers inside of them
 .then(function(){
+
 	
 	// TODO
 	// ===
@@ -173,7 +174,13 @@ sequelizeConnection.query('SET FOREIGN_KEY_CHECKS = 0')
 })
 
 .then(function(){
-	
+		return models.Store.create({
+		storeZip: '07748'
+	})
+
+	.then(function(store){
+		return shelly.addStore(store);
+	})	
 	// TODO
 	// ====
 	// Create a second store, and add managers to it
@@ -198,7 +205,9 @@ app.get('/', function(req, res){
 
 
 app.get('/:zip/managers', function(req, res){
-
+	var zip = req.params.zip;
+	models.Store.findOne({where: { storeZip: zip} })
+	.then(function(store))
 	// TODO:
 	// =====
 	// using findOne and getManagers

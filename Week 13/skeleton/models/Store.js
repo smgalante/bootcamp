@@ -23,6 +23,8 @@ module.exports = function(sequelizeConnection, DataTypes){
 		classMethods:{
 			// Manager Association
 			associate: function(models) {
+			Manager.hasOne(models.Uniform);
+			Manager.BelongsToMany
       	// TODO: BelongsToMany
       	// ===================
 			}
