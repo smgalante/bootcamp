@@ -48,6 +48,11 @@ username: {
 
 });
 
+UserSchema.methods.coolness = function(){
+	this.username = this.username + '...the Coolest!';
+	return this.username;
+};
+
 // create the "User" model with our UserSchema schema
 var User = mongoose.model('User', UserSchema);
 
